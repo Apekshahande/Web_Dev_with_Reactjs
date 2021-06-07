@@ -3,7 +3,7 @@ import React from "react";
 function List(){
   return (
     <div>
-      <ul className= "box1">
+      <ul className= "Topic_List">
         <li>JavaScript</li>
         <li>HTML</li>
         <li>React.js
